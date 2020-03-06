@@ -1,7 +1,7 @@
 // CPCS 324 Algorithms & Data Structures 2
 // Graph data structure starter - First Edge Object
 // 2019, Dr. Muhammad Al-Hashimi
-//need to subment 
+
 // -----------------------------------------------------------------------
 // simple graph object with linked-list edge implementation and minimal fields
 // extra vertex and edge member fields and methods to be added later as needed
